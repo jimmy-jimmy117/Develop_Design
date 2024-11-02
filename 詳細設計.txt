@@ -1,0 +1,9 @@
+セキュリティ監視サービス
+　zabbixのライセンスに気を付ける
+　　AGPLv3（6.0まではGPLv2）としてリリースされているため、無料でご使用いただけます。
+　zabbixとほかのオープンソースソフトウェアを併用してもOK！
+　zabbixにはグラフ作成機能がある
+　AWSが提供しているAWS Service Monitoringを使用してもOK！
+
+グラス作成
+javascriptに詳しければd3.jsを使い、そうでなければplotlyを使うのを勧める
